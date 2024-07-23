@@ -95,4 +95,3 @@ This project is an application that allows users to upload videos, extract subti
 
 - **Video Upload:** `POST /api/videos/`
 - **Search Subtitles:** `POST /api/videos/<video_id>/search/`
-  > > > > > > > 64a986d (Documentation with Readme.md)
